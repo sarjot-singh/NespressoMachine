@@ -1,5 +1,7 @@
 # NespressoMachine
-A Nespresso Coffee Machine created entirely in SolidWorks
+A Nespresso Coffee Machine created entirely in SolidWorks.
+
+This is a work-in-progress, plan to create more realistic renders in blender software as well as mimic motorized parts that was based off of the original nespresso product.
 
 
 
