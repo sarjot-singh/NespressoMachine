@@ -3,9 +3,9 @@ A Nespresso Coffee Machine created entirely in SolidWorks
 
 
 
-<img src="https://github.com/sarjot-singh/Dynamic-Spring/blob/main/image/unstretched.JPG" width="300">
+<img src="https://github.com/sarjot-singh/NespressoMachine/blob/main/Closed.JPG" width="500">
 
-<img src="https://github.com/sarjot-singh/Dynamic-Spring/blob/main/image/stretched.JPG" width="500">
+<img src="https://github.com/sarjot-singh/NespressoMachine/blob/main/Opened.JPG" width="500">
 
 
 
