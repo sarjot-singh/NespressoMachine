@@ -7,7 +7,7 @@ A Nespresso Coffee Machine created entirely in SolidWorks
 
 <img src="https://github.com/sarjot-singh/NespressoMachine/blob/main/Opened.JPG" width="500">
 
-<img src="https://github.com/sarjot-singh/NespressoMachine/blob/main/Opened.JPG" width="400">
+<img src="https://github.com/sarjot-singh/NespressoMachine/blob/main/Side.JPG" width="400">
 
 
 ## Getting Started
