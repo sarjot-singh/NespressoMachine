@@ -21,7 +21,9 @@ SOLIDWORKS
 
 
 ### Installing
-Begin by loading files into Solidworks.
+Begin by opening the NS_Assembly file.
+
+Make sure that all other part files are in the same folder.
 
 
 
