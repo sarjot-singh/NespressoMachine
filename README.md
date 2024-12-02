@@ -35,7 +35,7 @@ Make sure that all other part files are in the same folder otherwise the assembl
 
 
 ## Authors
-* **Sarjot Singh** - (https://github.com/sarjot-singh)
+* **Sarjot Singh** - (https://github.com/saviss33)
 
 
 
